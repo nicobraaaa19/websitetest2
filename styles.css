@@ -17,6 +17,12 @@ h1 {
     color: rgb(238, 255, 4);
 }
 
+h2 {
+    color: chocolate;
+}
+
+
+
 p {
     color: cyan;
 }
@@ -40,3 +46,14 @@ li {
 
 }
 
+.parrafo_especial2 {
+    color: aqua;
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/*DIV***/
+
+div > p {
+    font-weight: 700;
+}
