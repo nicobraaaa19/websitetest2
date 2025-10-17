@@ -1,0 +1,42 @@
+
+*{
+    font-family: fantasy;
+}
+/*Esto es un comentario*/
+
+h1,h3{
+    font-size: 2rem;
+}
+
+
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    color: rgb(238, 255, 4);
+}
+
+p {
+    color: cyan;
+}
+
+h3 {
+    color: chartreuse;
+}
+
+li {
+    color: crimson;
+}
+
+#titulo_maravilloso {
+    color: rgb(4, 87, 4);
+}
+
+.parrafo_especial {
+    color: blanchedalmond;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
